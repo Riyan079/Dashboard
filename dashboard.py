@@ -46,4 +46,4 @@ else:
 st.subheader("📊 Forecasting Results")
 st.write("🔍 Forecasting results will be displayed here once implemented.")
 
-st.sidebar.info("Developed by Tanveer Hussain Mohammed | GitHub: [Your GitHub Link]")
+st.sidebar.info("Developed by Tanveer Hussain Mohammed | GitHub: [https://github.com/Riyan079/Dashboard.git")
